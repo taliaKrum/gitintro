@@ -1,4 +1,6 @@
 
 hello
 
-this is for the second commit 
+this is for the second commit
+
+commit from dev 
