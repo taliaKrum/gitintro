@@ -3,4 +3,6 @@ hello
 
 this is for the second commit
 
-commit from dev 
+commit from dev
+
+im in my new branch exercise! 
